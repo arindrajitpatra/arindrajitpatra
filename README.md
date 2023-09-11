@@ -1,3 +1,4 @@
+![logo](https://github.com/arindrajitpatra/arindrajitpatra/blob/main/aiml.jpg)
 <h1 align="center">Hi 👋, I'm ARINDRAJIT PATRA</h1>
 <h3 align="center">A passionate Machine Learning and AI student from India</h3>
 
